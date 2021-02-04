@@ -1,0 +1,14 @@
+.paragrafoACrescer{
+    font-size: 1em;
+}
+.paragrafoACrescer:hover{
+    font-size: 1.05em;
+}
+.sectionParagrafo{
+    width: 100%;
+    height: 15vh;
+}
+.container{
+    width: 50%;
+    margin: 0 auto;
+}
